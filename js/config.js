@@ -26,7 +26,7 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    }
+    },
     iqiyizyapi_com: {
         api: "https://iqiyizyapi.com/api.php/provide/vod",
         name: "🎬-爱奇艺-",
